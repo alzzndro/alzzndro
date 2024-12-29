@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alessambro" alt="alessambro" /></a> </p>
 
-- 🔭 I’m currently working on **a Student Management System**
+- 🌱 I’m currently learning **React, JavaScript, TypeScript**
 
-- 🌱 I’m currently learning **React, JavaScript, TypeScript, Java, and PHP**
-
-- 💬 Ask me about **react**
+- 💬 Ask me about **React**
 
 - 📫 How to reach me **pokss132@gmail.com**
 
