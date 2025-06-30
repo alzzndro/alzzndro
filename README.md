@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jose Lesandro</h1>
+<h1 align="center">Jose Lesandro</h1>
 <h3 align="center">An aspiring Web Developer from the Philippines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alzzndro&label=Profile%20views&color=0e75b6&style=flat" alt="alzzndro" /> </p>
