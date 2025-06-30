@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jose Lesandro</h1>
-<h3 align="center">An aspiring Web Developer from Philippines</h3>
+<h3 align="center">An aspiring Web Developer from the Philippines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alzzndro&label=Profile%20views&color=0e75b6&style=flat" alt="alzzndro" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alzzndro" alt="alzzndro" /></a> </p>
 
-- 🌱 I’m currently learning **Vue, JavaScript**
+- 🌱 I’m currently learning **Vue and React**
 
 - 📫 How to reach me **official.joselesandro@gmail.com**
 
