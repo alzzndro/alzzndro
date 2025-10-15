@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alzzndro&label=Profile%20views&color=0e75b6&style=flat" alt="alzzndro" /> </p>
 
-- 📖 Currently learning **Vue and React**
-
 - 📫 How to reach me **official.joselesandro@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
